@@ -1,0 +1,7 @@
+/CSharp/*.suo
+/CSharp/GroupFormationAlgorithm/*.user
+Debug
+/CSharp/.idea/.idea.GroupFormationAlgorithm/.idea/*
+/CSharp/packages/**/*.dll
+/CSharp/GroupFormationAlgorithm/**/*.exe
+/CSharp/.idea/.idea.GroupFormationAlgorithm/*.iml

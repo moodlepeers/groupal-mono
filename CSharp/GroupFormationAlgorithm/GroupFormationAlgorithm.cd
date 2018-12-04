@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GroupAL.GroupFormationAlgorithm" Collapsed="true">
+    <Position X="7" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QIgAAABEACAAAAAAAAIKAAAAAAAAIAAAAAACgCAAQAA=</HashCode>
+      <FileName>GroupFormationAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupAL.Criterion" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgCAAAAAAQAACAABAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Criteria\Criterion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupAL.Criteria.CriterionWeight" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAIAAIAAABAAAAABAA=</HashCode>
+      <FileName>Criteria\CriterionWeight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupAL.Criteria.SpecificCriterion" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Criteria\SpecificCriterion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupAL.Participant" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAhA=</HashCode>
+      <FileName>Participant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupAL.Group" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAEAAAAAIAQAAQABAQAAAAAAAgAACAAAAEIAAA=</HashCode>
+      <FileName>Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupAL.Cohort" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QQIAAAAAAAAAABCAAAAABAAAAAAAAAwAAAAAAIEAAAA=</HashCode>
+      <FileName>Cohort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupAL.Optimizer.GroupALOptimizer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Optimizer\GroupALOptimizer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.179" Collapsed="true" />
+  </Class>
+  <Class Name="GroupAL.GroupALGroupCentricMatcher" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Matcher\GroupALGroupCentricMatcher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GroupAL.Matcher.RandomMatcher" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Matcher\RandomMatcher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GroupAL.Matcher.GroupALParticipantCentricMatcher" Collapsed="true">
+    <Position X="7" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Matcher\GroupALParticipantCentricMatcher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GroupAL.Evaluator.GroupALEvaluator" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAQAAAAAAAAAAAAAAAAQABAAAAAAAEAAAA=</HashCode>
+      <FileName>Evaluator\GroupALEvaluator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GroupAL.Statistics" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAQAAAQAAAAAAAAgAAAAAAAAAAEAAAAAAEAGA=</HashCode>
+      <FileName>Statistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupAL.Generator.XMLParticipantReaderWriter" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQCAEAEAAAAgABAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WriterReader\XMLParticipantReaderWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GroupAL.WriterReader.TextFileCohortReaderWriter" Collapsed="true">
+    <Position X="1" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgACAAAAAAAAAAAAEAAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>WriterReader\TextFileCohortReaderWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="GroupAL.IMatcher" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMatcher.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GroupAL.IOptimizer" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOptimizer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GroupAL.IEvaluator" Collapsed="true">
+    <Position X="0.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAEAAAA=</HashCode>
+      <FileName>IEvaluator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GroupAL.Generator.IParticipantReaderWriter" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WriterReader\IParticipantReaderWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GroupAL.WriterReader.ICohortReaderWriter" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>WriterReader\ICohortReaderWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

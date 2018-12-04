@@ -1,0 +1,4 @@
+CohortAveragePerformance	CohortPerformanceIndex	Matcher
+-0.08183632	-0.3333333	TeamMakerMatcher
+0.6615335	0.6198899	GroupALGroupCentricMatcher
+0.4401144	0.4028893	RandomMatcher
