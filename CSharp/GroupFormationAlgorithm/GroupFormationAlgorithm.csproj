@@ -115,7 +115,6 @@
     <Compile Include="Matcher\FarawaySoCloseMatcher.cs" />
     <Compile Include="Matcher\TeamMakerMatcher.cs" />
     <Compile Include="Optimizer\GroupALOptimizer.cs" />
-    <Compile Include="RestService\GroupFormationProcess - Copy.tmp.cs" />
     <Compile Include="RestService\GroupFormationProcess.cs" />
     <Compile Include="RestService\StartService.cs" />
     <Compile Include="Statistics.cs" />
