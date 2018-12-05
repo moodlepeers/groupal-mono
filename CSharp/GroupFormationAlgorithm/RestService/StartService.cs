@@ -16,6 +16,8 @@ using GroupAL.Generator;
 using System.IO;
 using System.Collections;
 using GroupAL.Criteria;
+using Nancy;
+using Nancy.Hosting.Self;
 
 namespace GroupAL.RestService
 {
@@ -29,12 +31,32 @@ namespace GroupAL.RestService
         public float performanceIndex;
     }
 
-    class StartService
+    public class StartService
     {
         static public void Main()
         {
-            Console.WriteLine("Hello Mono World 200 AABBCCDDEEFF");
+            Console.WriteLine("Ground control to major Tom: Starting engines");
 
+            // if you wanted to compare the matchers commend this in
+            // compareGroupFormationMatchers();
+
+            // starting rest service
+            startRestService();
+
+            Console.WriteLine("And now I am floating on a tin can");            
+        }
+
+        public static void startRestService()
+        {
+            // initialize an instance of NancyHost (found in the Nancy.Hosting.Self package)
+            var host = new NancyHost(new Uri("http://localhost:12345"));
+            host.Start(); // start hosting
+
+            Console.ReadKey();
+            host.Stop();  // stop hosting
+        }
+
+        public static void compareGroupFormationMatchers() {
 
             //generateDummyParticipants();                        
 
@@ -48,9 +70,10 @@ namespace GroupAL.RestService
 
             app.TaskRunCompareMatchersGcmOmadoTeammaker1HetCrit(1);
 
-            //Application.Current.Shutdown();
-
         }
+
+
+
 
         /// <summary>
         /// This is a specific evaluation data generation method used to create

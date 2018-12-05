@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Xml;
-using System.Xml.Linq;
+
 using GroupAL.Criteria;
 using System.Text.RegularExpressions;
 using System.Globalization;
+using System.IO;
+using System.Xml.Linq;
+using System.Xml;
+using System.Linq;
 
 namespace GroupAL.Generator
 {
@@ -42,7 +43,7 @@ namespace GroupAL.Generator
             _document.Save(file);
         }
 
-        private XElement GetUsedCriteria(List<Participant> entries)
+        private System.Xml.Linq.XElement GetUsedCriteria(List<Participant> entries)
         {
             if(entries.Count < 1) throw new NullReferenceException("XMLparticipantReaderWriter.getUsedCriteria needs at least one participant to write out.");
             XElement UsedCriteriaElement = new XElement("UsedCriteria");
@@ -98,7 +99,7 @@ namespace GroupAL.Generator
             List<Participant> loEntries = new List<Participant>();
             try
             {
-                _document = XDocument.Load(file);
+               _document = XDocument.Load(file);            
             }
             catch (Exception e) {
                 throw new Exception("XMLparticipantReaderWriter.readEntriesFromFile: seems not posible to open file!!!:");
@@ -113,6 +114,27 @@ namespace GroupAL.Generator
             }
             return loEntries;
         }
+
+        public List<Participant> ReadParticipantsFromString(string xmlFileString)
+        {
+            List<Participant> loEntries = new List<Participant>();
+          
+            //_document = XDocument.Load(file);
+            XmlReader xmlReader = XmlReader.Create(new StringReader(xmlFileString));                
+            _document = XDocument.Load(xmlReader);
+         
+            //readin all Used Criteria
+            // save the weiths for Each criteria in an indipendant class
+            //read in all creteria foreach participant
+            XElement EntriesElement = _document.Element("Participants");
+            foreach (XElement participantElement in EntriesElement.Elements("participant"))
+            {
+                Participant p = GetParticipantOutOfXML(participantElement);
+                loEntries.Add(p);
+            }
+            return loEntries;
+        }
+
 
         private Participant GetParticipantOutOfXML(XElement participantElement)
         {

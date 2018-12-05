@@ -1,11 +1,16 @@
 CSharp Implementation of GroupAL (group formation algorithm)
 
-Last update of readme: 05/06/2014
+Update 04.12.2019
 
+- The project is now a console application
+- The Entrypoint is RestService.StartService.cs
+- Running the project on linux:
+-- install Mono 4 or higher
+-- use Mono x86 command prompt
+-- xdbuild GroupFormationAlgorithm.sln
+-- mono bin/Debug/GroupFormationAlgorithm.exe
+-- the API will be published at http://localhost:12345/users/preferences/{GroupSize}
 
-How to start:
-- Open the VisualStudio Solution
-- Begin with the (short) MainWindow.xaml.cs
-  it basically only creates an instance of GroupALUsage.cs (which you should further refer to)
-- Open GroupALUsage.cs, which is a good start to see a possible application/usage of the algorithm. It contains several dummy/example-methods showing how to use the flexibility of the GroupAL components in combination (e.g. for runtime analysis or comparison or simply only to create learning groups, parameterize each participant and write out the results)...of course you can as well access the objects of build groups/cohorts directly (instead of writing to disk) to identify members and process them further in your code.)
-
+- Using the API
+-- send a POST request to the API with XML data on the payload describing the participants. An example xml can be found in the folder /bin/Debug/
+-- the request will return data as json or xml (depending on the header) depicting the cohort that was created
