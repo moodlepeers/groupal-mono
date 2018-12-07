@@ -18,6 +18,8 @@ using System.Collections;
 using GroupAL.Criteria;
 using Nancy;
 using Nancy.Hosting.Self;
+using Mono.Unix;
+using Mono.Unix.Native;
 
 namespace GroupAL.RestService
 {
@@ -43,7 +45,6 @@ namespace GroupAL.RestService
             // starting rest service
             startRestService();
             
-
             Console.WriteLine("And now I am floating on a tin can");            
         }
 
@@ -52,8 +53,39 @@ namespace GroupAL.RestService
             // initialize an instance of NancyHost (found in the Nancy.Hosting.Self package)
             var host = new NancyHost(new Uri("http://localhost:12345"));
             host.Start(); // start hosting  
-            while (true) {
-                // we shall never stop
+
+            // if it is deployed on server, it should run as a linux background process
+            if (IsLinux)
+            {
+                UnixSignal[] signals = new UnixSignal[] {
+            new UnixSignal(Signum.SIGINT),
+            new UnixSignal(Signum.SIGTERM),
+            };
+
+                // Wait for a unix signal
+                for (bool exit = false; !exit;)
+                {
+                    int id = UnixSignal.WaitAny(signals);
+
+                    if (id >= 0 && id < signals.Length)
+                    {
+                        if (signals[id].IsSet) exit = true;
+                    }
+                }
+            }
+            // if you test on Windows, it should wait for command line to break
+            else {
+                Console.ReadKey();
+            }
+
+        }
+
+        public static bool IsLinux
+        {
+            get
+            {
+                int p = (int)Environment.OSVersion.Platform;
+                return (p == 4) || (p == 6) || (p == 128);
             }
         }
 
