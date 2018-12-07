@@ -42,6 +42,7 @@ namespace GroupAL.RestService
 
             // starting rest service
             startRestService();
+            
 
             Console.WriteLine("And now I am floating on a tin can");            
         }
@@ -50,10 +51,10 @@ namespace GroupAL.RestService
         {
             // initialize an instance of NancyHost (found in the Nancy.Hosting.Self package)
             var host = new NancyHost(new Uri("http://localhost:12345"));
-            host.Start(); // start hosting
-
-            Console.ReadKey();
-            host.Stop();  // stop hosting
+            host.Start(); // start hosting  
+            while (true) {
+                // we shall never stop
+            }
         }
 
         public static void compareGroupFormationMatchers() {
