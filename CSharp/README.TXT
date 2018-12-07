@@ -14,7 +14,7 @@ Update 04.12.2019
 - Actually running the project in linux
 -- install Mono last stable using yum or apt-get, we used: https://www.mono-project.com/download/stable/#download-lin-centos
 -- download the dependencies using this idea: https://blog.lextudio.com/how-to-use-nuget-on-mono-part-i-8d2cd63bd1e0
-   (in principal, you could also copy Nancy.dll and Nancy.Hosting.Self to your linux machine)
+   (in principal, you could also copy Nancy.dll, Mono.Posix.dll and Nancy.Hosting.Self to your linux machine)
 -- xdbuild GroupFormationAlgorithm.sln
 -- mono bin/Debug/GroupFormationAlgorithm.exe
 -- the API will be published at http://[your-server.ip]:12345/users/preferences/{GroupSize}
