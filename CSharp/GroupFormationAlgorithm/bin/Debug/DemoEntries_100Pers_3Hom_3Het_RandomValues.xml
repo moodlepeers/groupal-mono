@@ -1,0 +1,3412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entries version="1">
+  <UsedCriteria>
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1" valueCount="4" />
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1" valueCount="4" />
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1" valueCount="1" />
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1" valueCount="2" />
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1" valueCount="5" />
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1" valueCount="1" />
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1" valueCount="1" />
+  </UsedCriteria>
+  <Entry id="1">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5709529" />
+      <Value name="value1" value="0.47355628" />
+      <Value name="value2" value="0.439798743" />
+      <Value name="value3" value="0.597640753" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.456043273" />
+      <Value name="value1" value="0.5319507" />
+      <Value name="value2" value="0.415598929" />
+      <Value name="value3" value="0.5111303" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4665427" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4888054" />
+      <Value name="value1" value="0.54957813" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.469201684" />
+      <Value name="value1" value="0.53262347" />
+      <Value name="value2" value="0.496732384" />
+      <Value name="value3" value="0.5809784" />
+      <Value name="value4" value="0.954396331" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4853665" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.421990663" />
+    </Criterion>
+  </Entry>
+  <Entry id="2">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.9710364" />
+      <Value name="value1" value="0.440358639" />
+      <Value name="value2" value="0.569777846" />
+      <Value name="value3" value="0.485576153" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.9015504" />
+      <Value name="value1" value="0.596016" />
+      <Value name="value2" value="0.460962951" />
+      <Value name="value3" value="0.5625136" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.472020864" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5612569" />
+      <Value name="value1" value="0.585415363" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4838754" />
+      <Value name="value1" value="0.4141779" />
+      <Value name="value2" value="0.493416756" />
+      <Value name="value3" value="0.423882484" />
+      <Value name="value4" value="0.556614637" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5584946" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.407517165" />
+    </Criterion>
+  </Entry>
+  <Entry id="3">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.41087234" />
+      <Value name="value1" value="0.4597176" />
+      <Value name="value2" value="0.529509842" />
+      <Value name="value3" value="0.479844153" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5195213" />
+      <Value name="value1" value="0.487742215" />
+      <Value name="value2" value="0.5202179" />
+      <Value name="value3" value="0.564095855" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5143831" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.588232636" />
+      <Value name="value1" value="0.4658941" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.925012" />
+      <Value name="value1" value="0.9667123" />
+      <Value name="value2" value="0.959038019" />
+      <Value name="value3" value="0.933016" />
+      <Value name="value4" value="0.5369345" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.534658849" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4956136" />
+    </Criterion>
+  </Entry>
+  <Entry id="4">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.922290564" />
+      <Value name="value1" value="0.485376745" />
+      <Value name="value2" value="0.5720059" />
+      <Value name="value3" value="0.943782777" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5366778" />
+      <Value name="value1" value="0.4935297" />
+      <Value name="value2" value="0.459929854" />
+      <Value name="value3" value="0.454342037" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.525714934" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5826673" />
+      <Value name="value1" value="0.474627525" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4561614" />
+      <Value name="value1" value="0.4453192" />
+      <Value name="value2" value="0.576008856" />
+      <Value name="value3" value="0.5382378" />
+      <Value name="value4" value="0.5734613" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.543523967" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4256489" />
+    </Criterion>
+  </Entry>
+  <Entry id="5">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.492480874" />
+      <Value name="value1" value="0.491192281" />
+      <Value name="value2" value="0.5208373" />
+      <Value name="value3" value="0.482035637" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5653583" />
+      <Value name="value1" value="0.537454545" />
+      <Value name="value2" value="0.481632918" />
+      <Value name="value3" value="0.472730339" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.496619463" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5470088" />
+      <Value name="value1" value="0.5945446" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5263773" />
+      <Value name="value1" value="0.5508594" />
+      <Value name="value2" value="0.477243423" />
+      <Value name="value3" value="0.558757961" />
+      <Value name="value4" value="0.5282689" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.53432405" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4731179" />
+    </Criterion>
+  </Entry>
+  <Entry id="6">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.435511261" />
+      <Value name="value1" value="0.5670896" />
+      <Value name="value2" value="0.5230398" />
+      <Value name="value3" value="0.4359801" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4199143" />
+      <Value name="value1" value="0.4651793" />
+      <Value name="value2" value="0.5620273" />
+      <Value name="value3" value="0.5375506" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.489468336" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4582217" />
+      <Value name="value1" value="0.542913437" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.489885271" />
+      <Value name="value1" value="0.5867743" />
+      <Value name="value2" value="0.5932511" />
+      <Value name="value3" value="0.5155141" />
+      <Value name="value4" value="0.507367134" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.444453627" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.443466574" />
+    </Criterion>
+  </Entry>
+  <Entry id="7">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5747763" />
+      <Value name="value1" value="0.540254951" />
+      <Value name="value2" value="0.520018458" />
+      <Value name="value3" value="0.4345514" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5621499" />
+      <Value name="value1" value="0.463947445" />
+      <Value name="value2" value="0.5969103" />
+      <Value name="value3" value="0.512921035" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.459797472" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.599337637" />
+      <Value name="value1" value="0.431807935" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.597384155" />
+      <Value name="value1" value="0.497403473" />
+      <Value name="value2" value="0.5170503" />
+      <Value name="value3" value="0.4416848" />
+      <Value name="value4" value="0.465119928" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.537950039" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5764344" />
+    </Criterion>
+  </Entry>
+  <Entry id="8">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5026091" />
+      <Value name="value1" value="0.456500769" />
+      <Value name="value2" value="0.471277982" />
+      <Value name="value3" value="0.455658048" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5200083" />
+      <Value name="value1" value="0.4278077" />
+      <Value name="value2" value="0.447986215" />
+      <Value name="value3" value="0.4234112" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5298169" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.406734228" />
+      <Value name="value1" value="0.560234547" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.401293516" />
+      <Value name="value1" value="0.41086325" />
+      <Value name="value2" value="0.443492264" />
+      <Value name="value3" value="0.4327898" />
+      <Value name="value4" value="0.5152914" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5534926" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5940691" />
+    </Criterion>
+  </Entry>
+  <Entry id="9">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5530994" />
+      <Value name="value1" value="0.400959879" />
+      <Value name="value2" value="0.404939741" />
+      <Value name="value3" value="0.459092379" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.439069867" />
+      <Value name="value1" value="0.5069933" />
+      <Value name="value2" value="0.405381829" />
+      <Value name="value3" value="0.562689662" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.505742669" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.492084235" />
+      <Value name="value1" value="0.560818255" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.425863117" />
+      <Value name="value1" value="0.448200434" />
+      <Value name="value2" value="0.521654367" />
+      <Value name="value3" value="0.4553011" />
+      <Value name="value4" value="0.5390797" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.404758036" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.587952852" />
+    </Criterion>
+  </Entry>
+  <Entry id="10">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5721886" />
+      <Value name="value1" value="0.519118249" />
+      <Value name="value2" value="0.4202466" />
+      <Value name="value3" value="0.4922108" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5865652" />
+      <Value name="value1" value="0.538738668" />
+      <Value name="value2" value="0.5341306" />
+      <Value name="value3" value="0.590176046" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5526865" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.458503962" />
+      <Value name="value1" value="0.5884744" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5883157" />
+      <Value name="value1" value="0.5645943" />
+      <Value name="value2" value="0.582112134" />
+      <Value name="value3" value="0.563557744" />
+      <Value name="value4" value="0.447615743" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5120205" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.536990166" />
+    </Criterion>
+  </Entry>
+  <Entry id="11">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.571494639" />
+      <Value name="value1" value="0.4435167" />
+      <Value name="value2" value="0.417430937" />
+      <Value name="value3" value="0.564284742" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.450276226" />
+      <Value name="value1" value="0.557318747" />
+      <Value name="value2" value="0.522065043" />
+      <Value name="value3" value="0.555902" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.462592959" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5039538" />
+      <Value name="value1" value="0.5585338" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4385802" />
+      <Value name="value1" value="0.545992434" />
+      <Value name="value2" value="0.471783549" />
+      <Value name="value3" value="0.4387342" />
+      <Value name="value4" value="0.444836974" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5431028" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.434374362" />
+    </Criterion>
+  </Entry>
+  <Entry id="12">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5738225" />
+      <Value name="value1" value="0.460888624" />
+      <Value name="value2" value="0.414394677" />
+      <Value name="value3" value="0.4662011" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5249619" />
+      <Value name="value1" value="0.448893815" />
+      <Value name="value2" value="0.5543068" />
+      <Value name="value3" value="0.546877861" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5742153" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.517426968" />
+      <Value name="value1" value="0.52748996" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5787062" />
+      <Value name="value1" value="0.462305427" />
+      <Value name="value2" value="0.400584728" />
+      <Value name="value3" value="0.409633875" />
+      <Value name="value4" value="0.518310964" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5675851" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5612414" />
+    </Criterion>
+  </Entry>
+  <Entry id="13">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.570521951" />
+      <Value name="value1" value="0.4079039" />
+      <Value name="value2" value="0.468842059" />
+      <Value name="value3" value="0.4629279" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5701458" />
+      <Value name="value1" value="0.430663228" />
+      <Value name="value2" value="0.476145744" />
+      <Value name="value3" value="0.430176735" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.431642264" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.514106333" />
+      <Value name="value1" value="0.512511551" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5166909" />
+      <Value name="value1" value="0.5495815" />
+      <Value name="value2" value="0.51975733" />
+      <Value name="value3" value="0.4390093" />
+      <Value name="value4" value="0.5291833" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.473793238" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4511319" />
+    </Criterion>
+  </Entry>
+  <Entry id="14">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.522595465" />
+      <Value name="value1" value="0.505293548" />
+      <Value name="value2" value="0.518554866" />
+      <Value name="value3" value="0.5685371" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4099779" />
+      <Value name="value1" value="0.503398359" />
+      <Value name="value2" value="0.5831035" />
+      <Value name="value3" value="0.404638082" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.42841205" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4838868" />
+      <Value name="value1" value="0.4416484" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.557949066" />
+      <Value name="value1" value="0.428946316" />
+      <Value name="value2" value="0.427681476" />
+      <Value name="value3" value="0.504198432" />
+      <Value name="value4" value="0.477492869" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.474315047" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.535198867" />
+    </Criterion>
+  </Entry>
+  <Entry id="15">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5655323" />
+      <Value name="value1" value="0.5108946" />
+      <Value name="value2" value="0.490742862" />
+      <Value name="value3" value="0.5837315" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.590055346" />
+      <Value name="value1" value="0.49478513" />
+      <Value name="value2" value="0.417251557" />
+      <Value name="value3" value="0.440200478" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.434366316" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4575244" />
+      <Value name="value1" value="0.567845464" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.407732576" />
+      <Value name="value1" value="0.5396969" />
+      <Value name="value2" value="0.5331221" />
+      <Value name="value3" value="0.5267915" />
+      <Value name="value4" value="0.558501959" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5957156" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.462291539" />
+    </Criterion>
+  </Entry>
+  <Entry id="16">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4426865" />
+      <Value name="value1" value="0.4019848" />
+      <Value name="value2" value="0.597926" />
+      <Value name="value3" value="0.5654437" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.479824454" />
+      <Value name="value1" value="0.5655077" />
+      <Value name="value2" value="0.402251184" />
+      <Value name="value3" value="0.59225893" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5885284" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.473693222" />
+      <Value name="value1" value="0.48516" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4848301" />
+      <Value name="value1" value="0.412492424" />
+      <Value name="value2" value="0.472088665" />
+      <Value name="value3" value="0.445442319" />
+      <Value name="value4" value="0.503810465" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5636511" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.562898636" />
+    </Criterion>
+  </Entry>
+  <Entry id="17">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5603891" />
+      <Value name="value1" value="0.538864" />
+      <Value name="value2" value="0.5152382" />
+      <Value name="value3" value="0.4237697" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.551285565" />
+      <Value name="value1" value="0.5697775" />
+      <Value name="value2" value="0.469032079" />
+      <Value name="value3" value="0.5255791" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4367926" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.42067948" />
+      <Value name="value1" value="0.54418993" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5085263" />
+      <Value name="value1" value="0.431157559" />
+      <Value name="value2" value="0.470444381" />
+      <Value name="value3" value="0.431965947" />
+      <Value name="value4" value="0.4419069" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.434806377" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.472330242" />
+    </Criterion>
+  </Entry>
+  <Entry id="18">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.53727293" />
+      <Value name="value1" value="0.400088638" />
+      <Value name="value2" value="0.431070179" />
+      <Value name="value3" value="0.5252352" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5814803" />
+      <Value name="value1" value="0.59779644" />
+      <Value name="value2" value="0.5062568" />
+      <Value name="value3" value="0.543558359" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.555040538" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5495362" />
+      <Value name="value1" value="0.445031941" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.495756835" />
+      <Value name="value1" value="0.5622903" />
+      <Value name="value2" value="0.435886443" />
+      <Value name="value3" value="0.569471061" />
+      <Value name="value4" value="0.5638929" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5981129" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.456851572" />
+    </Criterion>
+  </Entry>
+  <Entry id="19">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.547053337" />
+      <Value name="value1" value="0.4189168" />
+      <Value name="value2" value="0.45069927" />
+      <Value name="value3" value="0.428148568" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.496411651" />
+      <Value name="value1" value="0.554245353" />
+      <Value name="value2" value="0.528715134" />
+      <Value name="value3" value="0.5815717" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.448069" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.480002046" />
+      <Value name="value1" value="0.442535639" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.414715618" />
+      <Value name="value1" value="0.45286417" />
+      <Value name="value2" value="0.570585549" />
+      <Value name="value3" value="0.4372823" />
+      <Value name="value4" value="0.5731121" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.566537559" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.563562453" />
+    </Criterion>
+  </Entry>
+  <Entry id="20">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.531828463" />
+      <Value name="value1" value="0.435153931" />
+      <Value name="value2" value="0.5573837" />
+      <Value name="value3" value="0.5174418" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5175129" />
+      <Value name="value1" value="0.4077272" />
+      <Value name="value2" value="0.414736956" />
+      <Value name="value3" value="0.519495845" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.48054716" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5410358" />
+      <Value name="value1" value="0.4583892" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5083035" />
+      <Value name="value1" value="0.5390553" />
+      <Value name="value2" value="0.467264682" />
+      <Value name="value3" value="0.4723315" />
+      <Value name="value4" value="0.575114369" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4948536" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4158896" />
+    </Criterion>
+  </Entry>
+  <Entry id="21">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.421630979" />
+      <Value name="value1" value="0.509124339" />
+      <Value name="value2" value="0.503677" />
+      <Value name="value3" value="0.47682482" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.596520066" />
+      <Value name="value1" value="0.5999086" />
+      <Value name="value2" value="0.54972744" />
+      <Value name="value3" value="0.426254749" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.501022756" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5403249" />
+      <Value name="value1" value="0.496672064" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.474446416" />
+      <Value name="value1" value="0.458474576" />
+      <Value name="value2" value="0.589178264" />
+      <Value name="value3" value="0.469348878" />
+      <Value name="value4" value="0.405908644" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.432064444" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.562958956" />
+    </Criterion>
+  </Entry>
+  <Entry id="22">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4994679" />
+      <Value name="value1" value="0.429611564" />
+      <Value name="value2" value="0.501403868" />
+      <Value name="value3" value="0.442972064" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.413411617" />
+      <Value name="value1" value="0.5769158" />
+      <Value name="value2" value="0.473698229" />
+      <Value name="value3" value="0.5876793" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5231825" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.539765537" />
+      <Value name="value1" value="0.540946841" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.575270951" />
+      <Value name="value1" value="0.542384148" />
+      <Value name="value2" value="0.4777498" />
+      <Value name="value3" value="0.475731969" />
+      <Value name="value4" value="0.421392679" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5514811" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.457413256" />
+    </Criterion>
+  </Entry>
+  <Entry id="23">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.459885418" />
+      <Value name="value1" value="0.455003619" />
+      <Value name="value2" value="0.4386339" />
+      <Value name="value3" value="0.5574751" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5677144" />
+      <Value name="value1" value="0.4912582" />
+      <Value name="value2" value="0.5067045" />
+      <Value name="value3" value="0.474412084" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4228238" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.40610072" />
+      <Value name="value1" value="0.482561231" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.469210953" />
+      <Value name="value1" value="0.438954651" />
+      <Value name="value2" value="0.5331466" />
+      <Value name="value3" value="0.435200244" />
+      <Value name="value4" value="0.509372532" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4756465" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.465242028" />
+    </Criterion>
+  </Entry>
+  <Entry id="24">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5144858" />
+      <Value name="value1" value="0.578658938" />
+      <Value name="value2" value="0.495712727" />
+      <Value name="value3" value="0.526761234" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.403126627" />
+      <Value name="value1" value="0.408840716" />
+      <Value name="value2" value="0.476726085" />
+      <Value name="value3" value="0.4099619" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.485307962" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.52575177" />
+      <Value name="value1" value="0.5979408" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.418922275" />
+      <Value name="value1" value="0.5987145" />
+      <Value name="value2" value="0.437081873" />
+      <Value name="value3" value="0.437697142" />
+      <Value name="value4" value="0.411935627" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.54602325" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5770609" />
+    </Criterion>
+  </Entry>
+  <Entry id="25">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5243251" />
+      <Value name="value1" value="0.541992843" />
+      <Value name="value2" value="0.4618972" />
+      <Value name="value3" value="0.41014567" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5362676" />
+      <Value name="value1" value="0.538999557" />
+      <Value name="value2" value="0.55409205" />
+      <Value name="value3" value="0.467597485" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.505118132" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.453971565" />
+      <Value name="value1" value="0.500810862" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4078002" />
+      <Value name="value1" value="0.5400708" />
+      <Value name="value2" value="0.4330116" />
+      <Value name="value3" value="0.402103335" />
+      <Value name="value4" value="0.410489976" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5069069" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5728222" />
+    </Criterion>
+  </Entry>
+  <Entry id="26">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5617005" />
+      <Value name="value1" value="0.5331242" />
+      <Value name="value2" value="0.451877028" />
+      <Value name="value3" value="0.429793179" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.480749" />
+      <Value name="value1" value="0.5577525" />
+      <Value name="value2" value="0.405950248" />
+      <Value name="value3" value="0.580952764" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4764713" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.403901517" />
+      <Value name="value1" value="0.4073863" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.445479363" />
+      <Value name="value1" value="0.431513816" />
+      <Value name="value2" value="0.42701903" />
+      <Value name="value3" value="0.5871234" />
+      <Value name="value4" value="0.45813942" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5850475" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5336537" />
+    </Criterion>
+  </Entry>
+  <Entry id="27">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.40334484" />
+      <Value name="value1" value="0.5043401" />
+      <Value name="value2" value="0.442391336" />
+      <Value name="value3" value="0.556713164" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5726692" />
+      <Value name="value1" value="0.535529137" />
+      <Value name="value2" value="0.5037226" />
+      <Value name="value3" value="0.422754526" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5091511" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.47750777" />
+      <Value name="value1" value="0.5856811" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5649292" />
+      <Value name="value1" value="0.416818947" />
+      <Value name="value2" value="0.99822453" />
+      <Value name="value3" value="0.530175" />
+      <Value name="value4" value="0.464874983" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4502351" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.412899047" />
+    </Criterion>
+  </Entry>
+  <Entry id="28">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.525183856" />
+      <Value name="value1" value="0.4945319" />
+      <Value name="value2" value="0.461243838" />
+      <Value name="value3" value="0.5041447" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.404195428" />
+      <Value name="value1" value="0.5553149" />
+      <Value name="value2" value="0.462528259" />
+      <Value name="value3" value="0.5501905" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.460211217" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.459638774" />
+      <Value name="value1" value="0.422457755" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.473791838" />
+      <Value name="value1" value="0.420676827" />
+      <Value name="value2" value="0.481931329" />
+      <Value name="value3" value="0.4479641" />
+      <Value name="value4" value="0.468449682" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.407145143" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.40256685" />
+    </Criterion>
+  </Entry>
+  <Entry id="29">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.530430853" />
+      <Value name="value1" value="0.404987365" />
+      <Value name="value2" value="0.560455" />
+      <Value name="value3" value="0.5163479" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5260706" />
+      <Value name="value1" value="0.457994521" />
+      <Value name="value2" value="0.4486014" />
+      <Value name="value3" value="0.5284425" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5952717" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.511542141" />
+      <Value name="value1" value="0.5870826" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4191618" />
+      <Value name="value1" value="0.515304446" />
+      <Value name="value2" value="0.5666389" />
+      <Value name="value3" value="0.576783955" />
+      <Value name="value4" value="0.574224353" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5329556" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.49051562" />
+    </Criterion>
+  </Entry>
+  <Entry id="30">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.472409844" />
+      <Value name="value1" value="0.4992001" />
+      <Value name="value2" value="0.5001447" />
+      <Value name="value3" value="0.4870765" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.494184941" />
+      <Value name="value1" value="0.422478676" />
+      <Value name="value2" value="0.475317925" />
+      <Value name="value3" value="0.444083869" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.400296748" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.435359269" />
+      <Value name="value1" value="0.456830949" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5037497" />
+      <Value name="value1" value="0.5169651" />
+      <Value name="value2" value="0.5483693" />
+      <Value name="value3" value="0.581079364" />
+      <Value name="value4" value="0.5276081" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.534444153" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.44524774" />
+    </Criterion>
+  </Entry>
+  <Entry id="31">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.452444017" />
+      <Value name="value1" value="0.408835948" />
+      <Value name="value2" value="0.568461359" />
+      <Value name="value3" value="0.403249323" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.455543339" />
+      <Value name="value1" value="0.47575292" />
+      <Value name="value2" value="0.5600432" />
+      <Value name="value3" value="0.5509862" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.563107967" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4410494" />
+      <Value name="value1" value="0.544334352" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4558189" />
+      <Value name="value1" value="0.4970079" />
+      <Value name="value2" value="0.4464525" />
+      <Value name="value3" value="0.548975766" />
+      <Value name="value4" value="0.5574485" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.596039832" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.507945061" />
+    </Criterion>
+  </Entry>
+  <Entry id="32">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.502422154" />
+      <Value name="value1" value="0.4433544" />
+      <Value name="value2" value="0.510802448" />
+      <Value name="value3" value="0.5379764" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.441029966" />
+      <Value name="value1" value="0.481986731" />
+      <Value name="value2" value="0.457697749" />
+      <Value name="value3" value="0.413242131" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4716116" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.491521984" />
+      <Value name="value1" value="0.5945771" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.438713342" />
+      <Value name="value1" value="0.4380825" />
+      <Value name="value2" value="0.5876963" />
+      <Value name="value3" value="0.432194769" />
+      <Value name="value4" value="0.5315362" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5217803" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5241197" />
+    </Criterion>
+  </Entry>
+  <Entry id="33">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5220543" />
+      <Value name="value1" value="0.469160527" />
+      <Value name="value2" value="0.443656772" />
+      <Value name="value3" value="0.424391776" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5270333" />
+      <Value name="value1" value="0.5431988" />
+      <Value name="value2" value="0.459370762" />
+      <Value name="value3" value="0.434268534" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.499749541" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5444779" />
+      <Value name="value1" value="0.5383514" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.410378456" />
+      <Value name="value1" value="0.554774046" />
+      <Value name="value2" value="0.5595166" />
+      <Value name="value3" value="0.5523294" />
+      <Value name="value4" value="0.4731343" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.425185949" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.491089731" />
+    </Criterion>
+  </Entry>
+  <Entry id="34">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.534445345" />
+      <Value name="value1" value="0.5144677" />
+      <Value name="value2" value="0.567806" />
+      <Value name="value3" value="0.486474633" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5455516" />
+      <Value name="value1" value="0.4423012" />
+      <Value name="value2" value="0.404141337" />
+      <Value name="value3" value="0.4685212" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5564091" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.524394631" />
+      <Value name="value1" value="0.402966946" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.556638062" />
+      <Value name="value1" value="0.423624158" />
+      <Value name="value2" value="0.5654717" />
+      <Value name="value3" value="0.524672151" />
+      <Value name="value4" value="0.424856067" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.435394228" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5268793" />
+    </Criterion>
+  </Entry>
+  <Entry id="35">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4642883" />
+      <Value name="value1" value="0.478030384" />
+      <Value name="value2" value="0.516321063" />
+      <Value name="value3" value="0.567603648" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4786056" />
+      <Value name="value1" value="0.406761438" />
+      <Value name="value2" value="0.582237244" />
+      <Value name="value3" value="0.5132199" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.474890769" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.461233139" />
+      <Value name="value1" value="0.536748" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.435060471" />
+      <Value name="value1" value="0.486383915" />
+      <Value name="value2" value="0.5649482" />
+      <Value name="value3" value="0.5625104" />
+      <Value name="value4" value="0.541105032" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5970909" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.407312632" />
+    </Criterion>
+  </Entry>
+  <Entry id="36">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5563137" />
+      <Value name="value1" value="0.4355797" />
+      <Value name="value2" value="0.523609" />
+      <Value name="value3" value="0.401355565" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.420250446" />
+      <Value name="value1" value="0.4585121" />
+      <Value name="value2" value="0.5867897" />
+      <Value name="value3" value="0.5349762" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4313016" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5431115" />
+      <Value name="value1" value="0.520853758" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5728797" />
+      <Value name="value1" value="0.4857063" />
+      <Value name="value2" value="0.529917955" />
+      <Value name="value3" value="0.524122357" />
+      <Value name="value4" value="0.425450116" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.408846021" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.547155559" />
+    </Criterion>
+  </Entry>
+  <Entry id="37">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.574768662" />
+      <Value name="value1" value="0.566841662" />
+      <Value name="value2" value="0.4358621" />
+      <Value name="value3" value="0.5610446" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5042374" />
+      <Value name="value1" value="0.4323317" />
+      <Value name="value2" value="0.567410469" />
+      <Value name="value3" value="0.5429082" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.531773269" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.521348655" />
+      <Value name="value1" value="0.438010722" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.438018769" />
+      <Value name="value1" value="0.594127655" />
+      <Value name="value2" value="0.48251912" />
+      <Value name="value3" value="0.568380833" />
+      <Value name="value4" value="0.517359555" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4685424" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5998146" />
+    </Criterion>
+  </Entry>
+  <Entry id="38">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4032704" />
+      <Value name="value1" value="0.462932736" />
+      <Value name="value2" value="0.457779944" />
+      <Value name="value3" value="0.457809" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.580814" />
+      <Value name="value1" value="0.543629467" />
+      <Value name="value2" value="0.5754599" />
+      <Value name="value3" value="0.439125717" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.592366159" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5020111" />
+      <Value name="value1" value="0.5755269" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.406830043" />
+      <Value name="value1" value="0.5109381" />
+      <Value name="value2" value="0.99" />
+      <Value name="value3" value="0.556102157" />
+      <Value name="value4" value="0.415354818" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5663364" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.430249244" />
+    </Criterion>
+  </Entry>
+  <Entry id="39">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5714506" />
+      <Value name="value1" value="0.5952692" />
+      <Value name="value2" value="0.531342268" />
+      <Value name="value3" value="0.491277248" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.433945149" />
+      <Value name="value1" value="0.477342248" />
+      <Value name="value2" value="0.5267389" />
+      <Value name="value3" value="0.465441048" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.496965438" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5932828" />
+      <Value name="value1" value="0.5489839" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4383346" />
+      <Value name="value1" value="0.404498875" />
+      <Value name="value2" value="0.568346739" />
+      <Value name="value3" value="0.461375564" />
+      <Value name="value4" value="0.5243078" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.422179729" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.545913339" />
+    </Criterion>
+  </Entry>
+  <Entry id="40">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.489375651" />
+      <Value name="value1" value="0.516959667" />
+      <Value name="value2" value="0.586027741" />
+      <Value name="value3" value="0.492232651" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5855847" />
+      <Value name="value1" value="0.465111732" />
+      <Value name="value2" value="0.439965546" />
+      <Value name="value3" value="0.465399355" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5673814" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.524943233" />
+      <Value name="value1" value="0.410410553" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.577077" />
+      <Value name="value1" value="0.481916636" />
+      <Value name="value2" value="0.578772843" />
+      <Value name="value3" value="0.5161827" />
+      <Value name="value4" value="0.5381316" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.545909" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.473273247" />
+    </Criterion>
+  </Entry>
+  <Entry id="41">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4684723" />
+      <Value name="value1" value="0.51199317" />
+      <Value name="value2" value="0.4289876" />
+      <Value name="value3" value="0.5804377" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5310702" />
+      <Value name="value1" value="0.515372932" />
+      <Value name="value2" value="0.446664035" />
+      <Value name="value3" value="0.582177043" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.490141869" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.554031551" />
+      <Value name="value1" value="0.497512251" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.40718013" />
+      <Value name="value1" value="0.5454545" />
+      <Value name="value2" value="0.586630344" />
+      <Value name="value3" value="0.438754082" />
+      <Value name="value4" value="0.410188854" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.525979161" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.449376732" />
+    </Criterion>
+  </Entry>
+  <Entry id="42">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.04221556" />
+      <Value name="value1" value="0.479217917" />
+      <Value name="value2" value="0.409684479" />
+      <Value name="value3" value="0.466230541" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4513117" />
+      <Value name="value1" value="0.5685458" />
+      <Value name="value2" value="0.509960949" />
+      <Value name="value3" value="0.401795655" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4550305" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5198885" />
+      <Value name="value1" value="0.5113662" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.000211053" />
+      <Value name="value1" value="0.5221519" />
+      <Value name="value2" value="0.4663673" />
+      <Value name="value3" value="0.422437757" />
+      <Value name="value4" value="0.588102341" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4558355" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5101866" />
+    </Criterion>
+  </Entry>
+  <Entry id="43">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.516925752" />
+      <Value name="value1" value="0.508937955" />
+      <Value name="value2" value="0.5858895" />
+      <Value name="value3" value="0.4706548" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.445568621" />
+      <Value name="value1" value="0.403407663" />
+      <Value name="value2" value="0.5749699" />
+      <Value name="value3" value="0.485934019" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5678871" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5602012" />
+      <Value name="value1" value="0.5794887" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.423780233" />
+      <Value name="value1" value="0.538322866" />
+      <Value name="value2" value="0.4717278" />
+      <Value name="value3" value="0.4527937" />
+      <Value name="value4" value="0.466806024" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.49391" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4666911" />
+    </Criterion>
+  </Entry>
+  <Entry id="44">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.463588774" />
+      <Value name="value1" value="0.402241766" />
+      <Value name="value2" value="0.460681438" />
+      <Value name="value3" value="0.4604418" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.470476776" />
+      <Value name="value1" value="0.5292745" />
+      <Value name="value2" value="0.4603424" />
+      <Value name="value3" value="0.526775539" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.47081086" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.51993084" />
+      <Value name="value1" value="0.431879669" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.431144953" />
+      <Value name="value1" value="0.584742367" />
+      <Value name="value2" value="0.557352245" />
+      <Value name="value3" value="0.530794859" />
+      <Value name="value4" value="0.5285675" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.493263125" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.417041242" />
+    </Criterion>
+  </Entry>
+  <Entry id="45">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4634872" />
+      <Value name="value1" value="0.5735668" />
+      <Value name="value2" value="0.4336493" />
+      <Value name="value3" value="0.406276822" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4912607" />
+      <Value name="value1" value="0.5653777" />
+      <Value name="value2" value="0.4006587" />
+      <Value name="value3" value="0.549759746" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.422306955" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.431250274" />
+      <Value name="value1" value="0.5815657" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.439638436" />
+      <Value name="value1" value="0.5174174" />
+      <Value name="value2" value="0.455345869" />
+      <Value name="value3" value="0.5724573" />
+      <Value name="value4" value="0.5557467" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.524513543" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.453593731" />
+    </Criterion>
+  </Entry>
+  <Entry id="46">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.44950518" />
+      <Value name="value1" value="0.45648396" />
+      <Value name="value2" value="0.438461185" />
+      <Value name="value3" value="0.456615031" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.410312384" />
+      <Value name="value1" value="0.5187931" />
+      <Value name="value2" value="0.5325968" />
+      <Value name="value3" value="0.455039024" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4540544" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.536742151" />
+      <Value name="value1" value="0.5754589" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.422136515" />
+      <Value name="value1" value="0.492985427" />
+      <Value name="value2" value="0.4097554" />
+      <Value name="value3" value="0.5784647" />
+      <Value name="value4" value="0.435752451" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.403318822" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.520343244" />
+    </Criterion>
+  </Entry>
+  <Entry id="47">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4330418" />
+      <Value name="value1" value="0.457311928" />
+      <Value name="value2" value="0.5109811" />
+      <Value name="value3" value="0.49530378" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4597831" />
+      <Value name="value1" value="0.5207171" />
+      <Value name="value2" value="0.506967545" />
+      <Value name="value3" value="0.429092139" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5452099" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4311724" />
+      <Value name="value1" value="0.402513534" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5765338" />
+      <Value name="value1" value="0.458687663" />
+      <Value name="value2" value="0.4289957" />
+      <Value name="value3" value="0.432838649" />
+      <Value name="value4" value="0.4772011" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.479062319" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4367792" />
+    </Criterion>
+  </Entry>
+  <Entry id="48">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5785801" />
+      <Value name="value1" value="0.4068722" />
+      <Value name="value2" value="0.5632544" />
+      <Value name="value3" value="0.5148562" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.473680019" />
+      <Value name="value1" value="0.4362217" />
+      <Value name="value2" value="0.511323333" />
+      <Value name="value3" value="0.46391654" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5743009" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.400170445" />
+      <Value name="value1" value="0.5382649" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.571810246" />
+      <Value name="value1" value="0.4611738" />
+      <Value name="value2" value="0.481664926" />
+      <Value name="value3" value="0.452027053" />
+      <Value name="value4" value="0.452114046" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.52270484" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.46720162" />
+    </Criterion>
+  </Entry>
+  <Entry id="49">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5426127" />
+      <Value name="value1" value="0.5542014" />
+      <Value name="value2" value="0.596700847" />
+      <Value name="value3" value="0.5177441" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.54964745" />
+      <Value name="value1" value="0.581220269" />
+      <Value name="value2" value="0.573583245" />
+      <Value name="value3" value="0.501424432" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4525255" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.477520585" />
+      <Value name="value1" value="0.4780545" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5464632" />
+      <Value name="value1" value="0.5892979" />
+      <Value name="value2" value="0.415784329" />
+      <Value name="value3" value="0.5306931" />
+      <Value name="value4" value="0.541685462" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4571724" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.596446633" />
+    </Criterion>
+  </Entry>
+  <Entry id="50">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.557088852" />
+      <Value name="value1" value="0.5181857" />
+      <Value name="value2" value="0.583631933" />
+      <Value name="value3" value="0.4747594" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.583980441" />
+      <Value name="value1" value="0.595866561" />
+      <Value name="value2" value="0.5464163" />
+      <Value name="value3" value="0.506797135" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4908273" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.573399663" />
+      <Value name="value1" value="0.5699987" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.520848632" />
+      <Value name="value1" value="0.524506748" />
+      <Value name="value2" value="0.406573623" />
+      <Value name="value3" value="0.506290853" />
+      <Value name="value4" value="0.565637052" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.534588456" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5248609" />
+    </Criterion>
+  </Entry>
+  <Entry id="51">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.440078348" />
+      <Value name="value1" value="0.460835934" />
+      <Value name="value2" value="0.457224756" />
+      <Value name="value3" value="0.5820342" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.541273" />
+      <Value name="value1" value="0.5722556" />
+      <Value name="value2" value="0.583696246" />
+      <Value name="value3" value="0.433802754" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.585862041" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4278377" />
+      <Value name="value1" value="0.410872579" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.522480547" />
+      <Value name="value1" value="0.441117167" />
+      <Value name="value2" value="0.519488335" />
+      <Value name="value3" value="0.4244925" />
+      <Value name="value4" value="0.455580443" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4950252" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.40451923" />
+    </Criterion>
+  </Entry>
+  <Entry id="52">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4835697" />
+      <Value name="value1" value="0.467853278" />
+      <Value name="value2" value="0.570221" />
+      <Value name="value3" value="0.4008343" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5713279" />
+      <Value name="value1" value="0.442850351" />
+      <Value name="value2" value="0.490392953" />
+      <Value name="value3" value="0.4001836" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5314258" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5316769" />
+      <Value name="value1" value="0.553013861" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.471480876" />
+      <Value name="value1" value="0.4401723" />
+      <Value name="value2" value="0.423660845" />
+      <Value name="value3" value="0.4811959" />
+      <Value name="value4" value="0.4058322" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5016071" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5963365" />
+    </Criterion>
+  </Entry>
+  <Entry id="53">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5392219" />
+      <Value name="value1" value="0.5750547" />
+      <Value name="value2" value="0.5769127" />
+      <Value name="value3" value="0.4113763" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4910632" />
+      <Value name="value1" value="0.5501777" />
+      <Value name="value2" value="0.410004526" />
+      <Value name="value3" value="0.5185786" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.495924562" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5683468" />
+      <Value name="value1" value="0.5322825" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.450510323" />
+      <Value name="value1" value="0.4963561" />
+      <Value name="value2" value="0.46892634" />
+      <Value name="value3" value="0.51154846" />
+      <Value name="value4" value="0.5017716" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.482067347" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.466735184" />
+    </Criterion>
+  </Entry>
+  <Entry id="54">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.55464" />
+      <Value name="value1" value="0.439244062" />
+      <Value name="value2" value="0.489508063" />
+      <Value name="value3" value="0.414374441" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.491641223" />
+      <Value name="value1" value="0.5410894" />
+      <Value name="value2" value="0.440829843" />
+      <Value name="value3" value="0.452019334" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.480788946" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5143812" />
+      <Value name="value1" value="0.5876654" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5872118" />
+      <Value name="value1" value="0.441284657" />
+      <Value name="value2" value="0.435284972" />
+      <Value name="value3" value="0.4178812" />
+      <Value name="value4" value="0.428156048" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.516358554" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5199705" />
+    </Criterion>
+  </Entry>
+  <Entry id="55">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.427606553" />
+      <Value name="value1" value="0.47219342" />
+      <Value name="value2" value="0.5767901" />
+      <Value name="value3" value="0.42004326" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5908298" />
+      <Value name="value1" value="0.452749342" />
+      <Value name="value2" value="0.5469258" />
+      <Value name="value3" value="0.5220462" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.46790114" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.480915457" />
+      <Value name="value1" value="0.435320765" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4840875" />
+      <Value name="value1" value="0.5599325" />
+      <Value name="value2" value="0.5384007" />
+      <Value name="value3" value="0.541593552" />
+      <Value name="value4" value="0.414460719" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.45119226" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.462363064" />
+    </Criterion>
+  </Entry>
+  <Entry id="56">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5068284" />
+      <Value name="value1" value="0.524847448" />
+      <Value name="value2" value="0.4834135" />
+      <Value name="value3" value="0.435823321" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5705465" />
+      <Value name="value1" value="0.43904388" />
+      <Value name="value2" value="0.469388753" />
+      <Value name="value3" value="0.49562335" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5309132" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5087128" />
+      <Value name="value1" value="0.5270622" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.496997535" />
+      <Value name="value1" value="0.432629138" />
+      <Value name="value2" value="0.468200058" />
+      <Value name="value3" value="0.5525678" />
+      <Value name="value4" value="0.591577947" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4741651" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.409873933" />
+    </Criterion>
+  </Entry>
+  <Entry id="57">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.489945143" />
+      <Value name="value1" value="0.5345967" />
+      <Value name="value2" value="0.448414266" />
+      <Value name="value3" value="0.436758757" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.467448652" />
+      <Value name="value1" value="0.569595039" />
+      <Value name="value2" value="0.473188281" />
+      <Value name="value3" value="0.5599144" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.416698575" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5967015" />
+      <Value name="value1" value="0.5544488" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4492647" />
+      <Value name="value1" value="0.445618242" />
+      <Value name="value2" value="0.426823944" />
+      <Value name="value3" value="0.584092736" />
+      <Value name="value4" value="0.55551815" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5213277" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.59151113" />
+    </Criterion>
+  </Entry>
+  <Entry id="58">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.436557025" />
+      <Value name="value1" value="0.5917833" />
+      <Value name="value2" value="0.501646936" />
+      <Value name="value3" value="0.5377462" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.550654531" />
+      <Value name="value1" value="0.495206445" />
+      <Value name="value2" value="0.521836162" />
+      <Value name="value3" value="0.438213" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.594984055" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5709036" />
+      <Value name="value1" value="0.448286355" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.567120731" />
+      <Value name="value1" value="0.5315198" />
+      <Value name="value2" value="0.5683545" />
+      <Value name="value3" value="0.464235574" />
+      <Value name="value4" value="0.5317196" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.524515569" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5165956" />
+    </Criterion>
+  </Entry>
+  <Entry id="59">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4139488" />
+      <Value name="value1" value="0.470069677" />
+      <Value name="value2" value="0.4573988" />
+      <Value name="value3" value="0.513818443" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.562635064" />
+      <Value name="value1" value="0.410632074" />
+      <Value name="value2" value="0.4223453" />
+      <Value name="value3" value="0.4726873" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.54117465" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4816485" />
+      <Value name="value1" value="0.4630946" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.50023824" />
+      <Value name="value1" value="0.5129048" />
+      <Value name="value2" value="0.477111" />
+      <Value name="value3" value="0.546872437" />
+      <Value name="value4" value="0.5610567" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.555021" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.48238188" />
+    </Criterion>
+  </Entry>
+  <Entry id="60">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.508227" />
+      <Value name="value1" value="0.552198946" />
+      <Value name="value2" value="0.5839422" />
+      <Value name="value3" value="0.5532078" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5149226" />
+      <Value name="value1" value="0.429235667" />
+      <Value name="value2" value="0.574611" />
+      <Value name="value3" value="0.502284646" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5116281" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.449577868" />
+      <Value name="value1" value="0.465181738" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.58609426" />
+      <Value name="value1" value="0.5850292" />
+      <Value name="value2" value="0.5138987" />
+      <Value name="value3" value="0.502308369" />
+      <Value name="value4" value="0.46749717" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.541569352" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.451257974" />
+    </Criterion>
+  </Entry>
+  <Entry id="61">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.534112334" />
+      <Value name="value1" value="0.99" />
+      <Value name="value2" value="0.4291482" />
+      <Value name="value3" value="0.010149" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5154009" />
+      <Value name="value1" value="0.4779672" />
+      <Value name="value2" value="0.554031849" />
+      <Value name="value3" value="0.440187663" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5751184" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.494745851" />
+      <Value name="value1" value="0.4579988" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5711754" />
+      <Value name="value1" value="0.42024833" />
+      <Value name="value2" value="0.5704631" />
+      <Value name="value3" value="0.413333565" />
+      <Value name="value4" value="0.581853747" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.42349264" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5723167" />
+    </Criterion>
+  </Entry>
+  <Entry id="62">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5326534" />
+      <Value name="value1" value="0.460740983" />
+      <Value name="value2" value="0.5551471" />
+      <Value name="value3" value="0.428163141" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.539207458" />
+      <Value name="value1" value="0.4603504" />
+      <Value name="value2" value="0.499004036" />
+      <Value name="value3" value="0.5727675" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4075056" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5550804" />
+      <Value name="value1" value="0.496619344" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.549195945" />
+      <Value name="value1" value="0.5979299" />
+      <Value name="value2" value="0.445407659" />
+      <Value name="value3" value="0.535541654" />
+      <Value name="value4" value="0.495614439" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.426944315" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.432282418" />
+    </Criterion>
+  </Entry>
+  <Entry id="63">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4532337" />
+      <Value name="value1" value="0.4172121" />
+      <Value name="value2" value="0.436798036" />
+      <Value name="value3" value="0.505975" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.599176" />
+      <Value name="value1" value="0.474734962" />
+      <Value name="value2" value="0.4541173" />
+      <Value name="value3" value="0.4798652" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.44428584" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5404527" />
+      <Value name="value1" value="0.429329544" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.494718641" />
+      <Value name="value1" value="0.5727607" />
+      <Value name="value2" value="0.403175443" />
+      <Value name="value3" value="0.490406" />
+      <Value name="value4" value="0.5299917" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5348438" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.480828375" />
+    </Criterion>
+  </Entry>
+  <Entry id="64">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.496110916" />
+      <Value name="value1" value="0.5059492" />
+      <Value name="value2" value="0.5835311" />
+      <Value name="value3" value="0.5687978" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.592010856" />
+      <Value name="value1" value="0.5426335" />
+      <Value name="value2" value="0.470461637" />
+      <Value name="value3" value="0.5989515" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5435683" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.425922453" />
+      <Value name="value1" value="0.49681595" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.412591159" />
+      <Value name="value1" value="0.4356337" />
+      <Value name="value2" value="0.5246339" />
+      <Value name="value3" value="0.5435188" />
+      <Value name="value4" value="0.5810512" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.528620064" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.406280547" />
+    </Criterion>
+  </Entry>
+  <Entry id="65">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.535518646" />
+      <Value name="value1" value="0.426678419" />
+      <Value name="value2" value="0.461565018" />
+      <Value name="value3" value="0.480412126" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5740459" />
+      <Value name="value1" value="0.4593423" />
+      <Value name="value2" value="0.41606456" />
+      <Value name="value3" value="0.5585513" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.543437958" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.512787" />
+      <Value name="value1" value="0.5823197" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4934439" />
+      <Value name="value1" value="0.458789945" />
+      <Value name="value2" value="0.4679382" />
+      <Value name="value3" value="0.5105639" />
+      <Value name="value4" value="0.4547133" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5995036" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.52099514" />
+    </Criterion>
+  </Entry>
+  <Entry id="66">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.44875133" />
+      <Value name="value1" value="0.4844359" />
+      <Value name="value2" value="0.425201237" />
+      <Value name="value3" value="0.494164616" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.435513377" />
+      <Value name="value1" value="0.4002245" />
+      <Value name="value2" value="0.5311667" />
+      <Value name="value3" value="0.428194821" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.583049238" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4316947" />
+      <Value name="value1" value="0.504819036" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.504695654" />
+      <Value name="value1" value="0.551199853" />
+      <Value name="value2" value="0.591709554" />
+      <Value name="value3" value="0.474555433" />
+      <Value name="value4" value="0.4841255" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.594473064" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.508165359" />
+    </Criterion>
+  </Entry>
+  <Entry id="67">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.419263363" />
+      <Value name="value1" value="0.4156988" />
+      <Value name="value2" value="0.5319033" />
+      <Value name="value3" value="0.5241888" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.552733243" />
+      <Value name="value1" value="0.43345955" />
+      <Value name="value2" value="0.59919554" />
+      <Value name="value3" value="0.557674646" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.416631818" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4501244" />
+      <Value name="value1" value="0.567132533" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.428877771" />
+      <Value name="value1" value="0.5020273" />
+      <Value name="value2" value="0.5809204" />
+      <Value name="value3" value="0.525130332" />
+      <Value name="value4" value="0.422523648" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5322998" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.444184154" />
+    </Criterion>
+  </Entry>
+  <Entry id="68">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5810793" />
+      <Value name="value1" value="0.441354036" />
+      <Value name="value2" value="0.591165066" />
+      <Value name="value3" value="0.461340517" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5492455" />
+      <Value name="value1" value="0.545851052" />
+      <Value name="value2" value="0.4762931" />
+      <Value name="value3" value="0.5843699" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4537323" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.43874225" />
+      <Value name="value1" value="0.561587155" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.590610147" />
+      <Value name="value1" value="0.4188885" />
+      <Value name="value2" value="0.5746645" />
+      <Value name="value3" value="0.473465174" />
+      <Value name="value4" value="0.402398556" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.435449958" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5838048" />
+    </Criterion>
+  </Entry>
+  <Entry id="69">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.589091837" />
+      <Value name="value1" value="0.524562538" />
+      <Value name="value2" value="0.531702638" />
+      <Value name="value3" value="0.591741741" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4949691" />
+      <Value name="value1" value="0.477838725" />
+      <Value name="value2" value="0.5835927" />
+      <Value name="value3" value="0.481042266" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4610623" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5541715" />
+      <Value name="value1" value="0.529667437" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.523898661" />
+      <Value name="value1" value="0.579565346" />
+      <Value name="value2" value="0.5286762" />
+      <Value name="value3" value="0.459409744" />
+      <Value name="value4" value="0.430371255" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.503046155" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.553119063" />
+    </Criterion>
+  </Entry>
+  <Entry id="70">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5170003" />
+      <Value name="value1" value="0.5579229" />
+      <Value name="value2" value="0.4664533" />
+      <Value name="value3" value="0.5860523" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.447895736" />
+      <Value name="value1" value="0.568363369" />
+      <Value name="value2" value="0.5797273" />
+      <Value name="value3" value="0.5604533" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5960876" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.426021725" />
+      <Value name="value1" value="0.4312359" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5924681" />
+      <Value name="value1" value="0.55541265" />
+      <Value name="value2" value="0.499628723" />
+      <Value name="value3" value="0.5454705" />
+      <Value name="value4" value="0.5413256" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.433431864" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4077373" />
+    </Criterion>
+  </Entry>
+  <Entry id="71">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5124815" />
+      <Value name="value1" value="0.589337647" />
+      <Value name="value2" value="0.546385" />
+      <Value name="value3" value="0.513326347" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.477747858" />
+      <Value name="value1" value="0.468203247" />
+      <Value name="value2" value="0.484788746" />
+      <Value name="value3" value="0.5221216" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.454702467" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5298337" />
+      <Value name="value1" value="0.459176928" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.432910919" />
+      <Value name="value1" value="0.5312004" />
+      <Value name="value2" value="0.588517249" />
+      <Value name="value3" value="0.4716183" />
+      <Value name="value4" value="0.520346165" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4853983" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.477527082" />
+    </Criterion>
+  </Entry>
+  <Entry id="72">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.517351449" />
+      <Value name="value1" value="0.403039515" />
+      <Value name="value2" value="0.476666838" />
+      <Value name="value3" value="0.5633393" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.412014455" />
+      <Value name="value1" value="0.534515858" />
+      <Value name="value2" value="0.4817512" />
+      <Value name="value3" value="0.557571" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.449806362" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.468594253" />
+      <Value name="value1" value="0.5987589" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4300387" />
+      <Value name="value1" value="0.5784282" />
+      <Value name="value2" value="0.438239753" />
+      <Value name="value3" value="0.495244384" />
+      <Value name="value4" value="0.451672435" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.517889738" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5137086" />
+    </Criterion>
+  </Entry>
+  <Entry id="73">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.406734079" />
+      <Value name="value1" value="0.403673947" />
+      <Value name="value2" value="0.480175018" />
+      <Value name="value3" value="0.5982501" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.501263559" />
+      <Value name="value1" value="0.5257741" />
+      <Value name="value2" value="0.5136609" />
+      <Value name="value3" value="0.4498936" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5012764" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.563176632" />
+      <Value name="value1" value="0.49482134" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.442718655" />
+      <Value name="value1" value="0.520849764" />
+      <Value name="value2" value="0.4350665" />
+      <Value name="value3" value="0.414230436" />
+      <Value name="value4" value="0.4679434" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.423974156" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.430392325" />
+    </Criterion>
+  </Entry>
+  <Entry id="74">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5310705" />
+      <Value name="value1" value="0.5491423" />
+      <Value name="value2" value="0.5773232" />
+      <Value name="value3" value="0.411869138" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.431575179" />
+      <Value name="value1" value="0.5201769" />
+      <Value name="value2" value="0.4183969" />
+      <Value name="value3" value="0.416194469" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.523362756" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.424663782" />
+      <Value name="value1" value="0.551405549" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.420937181" />
+      <Value name="value1" value="0.537666559" />
+      <Value name="value2" value="0.47952798" />
+      <Value name="value3" value="0.470627517" />
+      <Value name="value4" value="0.5579098" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5136121" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.481724352" />
+    </Criterion>
+  </Entry>
+  <Entry id="75">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5973521" />
+      <Value name="value1" value="0.5191014" />
+      <Value name="value2" value="0.5017759" />
+      <Value name="value3" value="0.5508928" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.449678361" />
+      <Value name="value1" value="0.562120855" />
+      <Value name="value2" value="0.43323946" />
+      <Value name="value3" value="0.5185746" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.46274966" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4070877" />
+      <Value name="value1" value="0.5477445" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5636924" />
+      <Value name="value1" value="0.41580826" />
+      <Value name="value2" value="0.5104848" />
+      <Value name="value3" value="0.414265573" />
+      <Value name="value4" value="0.464852035" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.520602" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5687475" />
+    </Criterion>
+  </Entry>
+  <Entry id="76">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5363854" />
+      <Value name="value1" value="0.594864964" />
+      <Value name="value2" value="0.5720988" />
+      <Value name="value3" value="0.559998155" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.579853237" />
+      <Value name="value1" value="0.485069126" />
+      <Value name="value2" value="0.402411342" />
+      <Value name="value3" value="0.488997161" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4984881" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.48033917" />
+      <Value name="value1" value="0.425510079" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.415293366" />
+      <Value name="value1" value="0.572091162" />
+      <Value name="value2" value="0.562940061" />
+      <Value name="value3" value="0.5214544" />
+      <Value name="value4" value="0.5325061" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4705913" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5048728" />
+    </Criterion>
+  </Entry>
+  <Entry id="77">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5286164" />
+      <Value name="value1" value="0.5801778" />
+      <Value name="value2" value="0.499463916" />
+      <Value name="value3" value="0.415202349" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5786297" />
+      <Value name="value1" value="0.5130006" />
+      <Value name="value2" value="0.457427233" />
+      <Value name="value3" value="0.4113092" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.46844998" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5596704" />
+      <Value name="value1" value="0.408855528" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4409207" />
+      <Value name="value1" value="0.4066716" />
+      <Value name="value2" value="0.47281453" />
+      <Value name="value3" value="0.558926046" />
+      <Value name="value4" value="0.50188005" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.421524376" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.518747151" />
+    </Criterion>
+  </Entry>
+  <Entry id="78">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.509625554" />
+      <Value name="value1" value="0.437353939" />
+      <Value name="value2" value="0.539248168" />
+      <Value name="value3" value="0.41670683" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5484814" />
+      <Value name="value1" value="0.5606812" />
+      <Value name="value2" value="0.463632762" />
+      <Value name="value3" value="0.5529003" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.493064523" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4474563" />
+      <Value name="value1" value="0.434996575" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5848045" />
+      <Value name="value1" value="0.442238" />
+      <Value name="value2" value="0.483302146" />
+      <Value name="value3" value="0.4398935" />
+      <Value name="value4" value="0.5093928" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5362357" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5404242" />
+    </Criterion>
+  </Entry>
+  <Entry id="79">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.469283581" />
+      <Value name="value1" value="0.5211831" />
+      <Value name="value2" value="0.416235268" />
+      <Value name="value3" value="0.4590982" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5025709" />
+      <Value name="value1" value="0.56854403" />
+      <Value name="value2" value="0.416619122" />
+      <Value name="value3" value="0.442740977" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.48014167" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4575674" />
+      <Value name="value1" value="0.473667562" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5526956" />
+      <Value name="value1" value="0.456367344" />
+      <Value name="value2" value="0.470211118" />
+      <Value name="value3" value="0.5414157" />
+      <Value name="value4" value="0.402707279" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.42288056" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.433237374" />
+    </Criterion>
+  </Entry>
+  <Entry id="80">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.565624654" />
+      <Value name="value1" value="0.511909544" />
+      <Value name="value2" value="0.431696355" />
+      <Value name="value3" value="0.5387827" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5515696" />
+      <Value name="value1" value="0.425729364" />
+      <Value name="value2" value="0.4199361" />
+      <Value name="value3" value="0.4099709" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.576312661" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.483645529" />
+      <Value name="value1" value="0.5174324" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.525553346" />
+      <Value name="value1" value="0.4010272" />
+      <Value name="value2" value="0.497278839" />
+      <Value name="value3" value="0.5365789" />
+      <Value name="value4" value="0.418501824" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.432596475" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.500341356" />
+    </Criterion>
+  </Entry>
+  <Entry id="81">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5025119" />
+      <Value name="value1" value="0.45052737" />
+      <Value name="value2" value="0.534783" />
+      <Value name="value3" value="0.570704162" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4000877" />
+      <Value name="value1" value="0.505740464" />
+      <Value name="value2" value="0.48053956" />
+      <Value name="value3" value="0.406065375" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.479232758" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.540369" />
+      <Value name="value1" value="0.591089" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5647855" />
+      <Value name="value1" value="0.44338882" />
+      <Value name="value2" value="0.43953073" />
+      <Value name="value3" value="0.4604216" />
+      <Value name="value4" value="0.406656116" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.543768167" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4243261" />
+    </Criterion>
+  </Entry>
+  <Entry id="82">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.508727849" />
+      <Value name="value1" value="0.5305009" />
+      <Value name="value2" value="0.569613457" />
+      <Value name="value3" value="0.5905059" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4391621" />
+      <Value name="value1" value="0.492600024" />
+      <Value name="value2" value="0.5922314" />
+      <Value name="value3" value="0.532973647" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.525308549" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5545883" />
+      <Value name="value1" value="0.4565402" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5763887" />
+      <Value name="value1" value="0.416116685" />
+      <Value name="value2" value="0.437865525" />
+      <Value name="value3" value="0.43761465" />
+      <Value name="value4" value="0.441074342" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5001954" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5723532" />
+    </Criterion>
+  </Entry>
+  <Entry id="83">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4984544" />
+      <Value name="value1" value="0.5949205" />
+      <Value name="value2" value="0.511821866" />
+      <Value name="value3" value="0.5259559" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.458243161" />
+      <Value name="value1" value="0.5455043" />
+      <Value name="value2" value="0.5464966" />
+      <Value name="value3" value="0.47956714" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.418881953" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4115272" />
+      <Value name="value1" value="0.4402567" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4779017" />
+      <Value name="value1" value="0.4651318" />
+      <Value name="value2" value="0.59437114" />
+      <Value name="value3" value="0.5535107" />
+      <Value name="value4" value="0.5122528" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.509774" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.50209564" />
+    </Criterion>
+  </Entry>
+  <Entry id="84">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.530727863" />
+      <Value name="value1" value="0.512006" />
+      <Value name="value2" value="0.4113653" />
+      <Value name="value3" value="0.442183" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5784728" />
+      <Value name="value1" value="0.467114121" />
+      <Value name="value2" value="0.5804319" />
+      <Value name="value3" value="0.525951266" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5495252" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.502844036" />
+      <Value name="value1" value="0.5242523" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5532235" />
+      <Value name="value1" value="0.527170837" />
+      <Value name="value2" value="0.402314484" />
+      <Value name="value3" value="0.53933537" />
+      <Value name="value4" value="0.488068432" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5082018" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5488477" />
+    </Criterion>
+  </Entry>
+  <Entry id="85">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5125043" />
+      <Value name="value1" value="0.582771957" />
+      <Value name="value2" value="0.4722577" />
+      <Value name="value3" value="0.42410925" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.444009274" />
+      <Value name="value1" value="0.559595" />
+      <Value name="value2" value="0.473718077" />
+      <Value name="value3" value="0.5807042" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4927169" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4474069" />
+      <Value name="value1" value="0.489456534" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4621691" />
+      <Value name="value1" value="0.422878" />
+      <Value name="value2" value="0.5038639" />
+      <Value name="value3" value="0.52809155" />
+      <Value name="value4" value="0.535519063" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5103465" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5881894" />
+    </Criterion>
+  </Entry>
+  <Entry id="86">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.560987949" />
+      <Value name="value1" value="0.4562714" />
+      <Value name="value2" value="0.4164477" />
+      <Value name="value3" value="0.444707751" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.545524061" />
+      <Value name="value1" value="0.5322919" />
+      <Value name="value2" value="0.595979035" />
+      <Value name="value3" value="0.44365263" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.555314839" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4656585" />
+      <Value name="value1" value="0.484356374" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.437942237" />
+      <Value name="value1" value="0.5385664" />
+      <Value name="value2" value="0.5770634" />
+      <Value name="value3" value="0.486169368" />
+      <Value name="value4" value="0.404663116" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.599748552" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5270021" />
+    </Criterion>
+  </Entry>
+  <Entry id="87">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.429837942" />
+      <Value name="value1" value="0.5066187" />
+      <Value name="value2" value="0.467996746" />
+      <Value name="value3" value="0.451770335" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.568464935" />
+      <Value name="value1" value="0.5977686" />
+      <Value name="value2" value="0.5743972" />
+      <Value name="value3" value="0.533025" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.436494768" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4873561" />
+      <Value name="value1" value="0.479966044" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.42038843" />
+      <Value name="value1" value="0.425131947" />
+      <Value name="value2" value="0.591651857" />
+      <Value name="value3" value="0.491968036" />
+      <Value name="value4" value="0.551146" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.527080536" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.451930374" />
+    </Criterion>
+  </Entry>
+  <Entry id="88">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.532399952" />
+      <Value name="value1" value="0.467796534" />
+      <Value name="value2" value="0.437247872" />
+      <Value name="value3" value="0.5399658" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4281302" />
+      <Value name="value1" value="0.40035665" />
+      <Value name="value2" value="0.404280126" />
+      <Value name="value3" value="0.4080596" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.496347845" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4547747" />
+      <Value name="value1" value="0.5088405" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5123932" />
+      <Value name="value1" value="0.575999737" />
+      <Value name="value2" value="0.418214917" />
+      <Value name="value3" value="0.504115343" />
+      <Value name="value4" value="0.40108943" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5056811" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4037278" />
+    </Criterion>
+  </Entry>
+  <Entry id="89">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5201927" />
+      <Value name="value1" value="0.50921756" />
+      <Value name="value2" value="0.487806469" />
+      <Value name="value3" value="0.4186791" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.470310539" />
+      <Value name="value1" value="0.41249904" />
+      <Value name="value2" value="0.495797127" />
+      <Value name="value3" value="0.508622944" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5636866" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5349264" />
+      <Value name="value1" value="0.440526545" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.49270454" />
+      <Value name="value1" value="0.5459742" />
+      <Value name="value2" value="0.587420464" />
+      <Value name="value3" value="0.449982852" />
+      <Value name="value4" value="0.434239" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.472263157" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5319521" />
+    </Criterion>
+  </Entry>
+  <Entry id="90">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.48975423" />
+      <Value name="value1" value="0.489872128" />
+      <Value name="value2" value="0.478488475" />
+      <Value name="value3" value="0.467640072" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.447490215" />
+      <Value name="value1" value="0.5604054" />
+      <Value name="value2" value="0.5014208" />
+      <Value name="value3" value="0.5196225" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4241845" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5241016" />
+      <Value name="value1" value="0.511356354" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.461751133" />
+      <Value name="value1" value="0.516273141" />
+      <Value name="value2" value="0.424042523" />
+      <Value name="value3" value="0.485970736" />
+      <Value name="value4" value="0.488240242" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.430953234" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.417862952" />
+    </Criterion>
+  </Entry>
+  <Entry id="91">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5641239" />
+      <Value name="value1" value="0.51372087" />
+      <Value name="value2" value="0.597486" />
+      <Value name="value3" value="0.424748838" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4441687" />
+      <Value name="value1" value="0.5195073" />
+      <Value name="value2" value="0.436670065" />
+      <Value name="value3" value="0.469353735" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5675331" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4036433" />
+      <Value name="value1" value="0.5088005" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5214201" />
+      <Value name="value1" value="0.4624103" />
+      <Value name="value2" value="0.541760743" />
+      <Value name="value3" value="0.5459518" />
+      <Value name="value4" value="0.5721633" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.511335254" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.415808976" />
+    </Criterion>
+  </Entry>
+  <Entry id="92">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.525239348" />
+      <Value name="value1" value="0.452552617" />
+      <Value name="value2" value="0.461727381" />
+      <Value name="value3" value="0.527401149" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.517258346" />
+      <Value name="value1" value="0.550688" />
+      <Value name="value2" value="0.5883146" />
+      <Value name="value3" value="0.571695566" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5972666" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5019355" />
+      <Value name="value1" value="0.41865328" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.416484028" />
+      <Value name="value1" value="0.4067338" />
+      <Value name="value2" value="0.457734" />
+      <Value name="value3" value="0.556467235" />
+      <Value name="value4" value="0.432119936" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.470115125" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5585423" />
+    </Criterion>
+  </Entry>
+  <Entry id="93">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5344661" />
+      <Value name="value1" value="0.4650054" />
+      <Value name="value2" value="0.445703447" />
+      <Value name="value3" value="0.55898124" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.430970043" />
+      <Value name="value1" value="0.5781365" />
+      <Value name="value2" value="0.592872262" />
+      <Value name="value3" value="0.497777462" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.410822034" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5027644" />
+      <Value name="value1" value="0.46169132" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.569595635" />
+      <Value name="value1" value="0.5157994" />
+      <Value name="value2" value="0.5441099" />
+      <Value name="value3" value="0.5127073" />
+      <Value name="value4" value="0.470161766" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5630009" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5784007" />
+    </Criterion>
+  </Entry>
+  <Entry id="94">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5561356" />
+      <Value name="value1" value="0.436722755" />
+      <Value name="value2" value="0.596462548" />
+      <Value name="value3" value="0.446797967" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4364343" />
+      <Value name="value1" value="0.472473174" />
+      <Value name="value2" value="0.5222407" />
+      <Value name="value3" value="0.5347346" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.450700432" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.551049054" />
+      <Value name="value1" value="0.5969095" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.451066524" />
+      <Value name="value1" value="0.5649529" />
+      <Value name="value2" value="0.430290371" />
+      <Value name="value3" value="0.471645623" />
+      <Value name="value4" value="0.5874095" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.4376972" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.446329832" />
+    </Criterion>
+  </Entry>
+  <Entry id="95">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.570105553" />
+      <Value name="value1" value="0.5662582" />
+      <Value name="value2" value="0.4215826" />
+      <Value name="value3" value="0.4835909" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5345289" />
+      <Value name="value1" value="0.41948086" />
+      <Value name="value2" value="0.53986603" />
+      <Value name="value3" value="0.485550135" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5100042" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.427670956" />
+      <Value name="value1" value="0.586136162" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.474543452" />
+      <Value name="value1" value="0.5037767" />
+      <Value name="value2" value="0.5365721" />
+      <Value name="value3" value="0.4947331" />
+      <Value name="value4" value="0.5780666" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.475984365" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.433392346" />
+    </Criterion>
+  </Entry>
+  <Entry id="96">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5620798" />
+      <Value name="value1" value="0.487668127" />
+      <Value name="value2" value="0.428571135" />
+      <Value name="value3" value="0.573230267" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.436740547" />
+      <Value name="value1" value="0.49623546" />
+      <Value name="value2" value="0.5274361" />
+      <Value name="value3" value="0.4418232" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.500867963" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5597555" />
+      <Value name="value1" value="0.5378116" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.431400955" />
+      <Value name="value1" value="0.497950017" />
+      <Value name="value2" value="0.528389931" />
+      <Value name="value3" value="0.5064127" />
+      <Value name="value4" value="0.466377467" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5000562" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.596742749" />
+    </Criterion>
+  </Entry>
+  <Entry id="97">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.556818068" />
+      <Value name="value1" value="0.4725447" />
+      <Value name="value2" value="0.502193868" />
+      <Value name="value3" value="0.5769817" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.506931961" />
+      <Value name="value1" value="0.5508842" />
+      <Value name="value2" value="0.562469" />
+      <Value name="value3" value="0.494569749" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.548598468" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.576157033" />
+      <Value name="value1" value="0.447272331" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.46033743" />
+      <Value name="value1" value="0.5563335" />
+      <Value name="value2" value="0.586886346" />
+      <Value name="value3" value="0.55430603" />
+      <Value name="value4" value="0.438253284" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.425329715" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5500291" />
+    </Criterion>
+  </Entry>
+  <Entry id="98">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.417758733" />
+      <Value name="value1" value="0.5968753" />
+      <Value name="value2" value="0.529517651" />
+      <Value name="value3" value="0.5253471" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.556154847" />
+      <Value name="value1" value="0.492705673" />
+      <Value name="value2" value="0.5186129" />
+      <Value name="value3" value="0.5801105" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5477386" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.478603274" />
+      <Value name="value1" value="0.529720962" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.4577462" />
+      <Value name="value1" value="0.5681308" />
+      <Value name="value2" value="0.437399268" />
+      <Value name="value3" value="0.4365159" />
+      <Value name="value4" value="0.49799037" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.421248525" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.403439671" />
+    </Criterion>
+  </Entry>
+  <Entry id="99">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.5311985" />
+      <Value name="value1" value="0.5850981" />
+      <Value name="value2" value="0.58073616" />
+      <Value name="value3" value="0.477686971" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.410761327" />
+      <Value name="value1" value="0.5421708" />
+      <Value name="value2" value="0.547637045" />
+      <Value name="value3" value="0.551279068" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5945509" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.440530539" />
+      <Value name="value1" value="0.403422058" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.550925255" />
+      <Value name="value1" value="0.477094948" />
+      <Value name="value2" value="0.45969674" />
+      <Value name="value3" value="0.5030602" />
+      <Value name="value4" value="0.5563836" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.44861877" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5031809" />
+    </Criterion>
+  </Entry>
+  <Entry id="100">
+    <Criterion name="Bartle" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.467225134" />
+      <Value name="value1" value="0.431470931" />
+      <Value name="value2" value="0.516389847" />
+      <Value name="value3" value="0.409488231" />
+    </Criterion>
+    <Criterion name="FeldermanSilver" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.458368838" />
+      <Value name="value1" value="0.5268215" />
+      <Value name="value2" value="0.403145552" />
+      <Value name="value3" value="0.4838657" />
+    </Criterion>
+    <Criterion name="Age" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.56484884" />
+    </Criterion>
+    <Criterion name="Position" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.490852267" />
+      <Value name="value1" value="0.408026248" />
+    </Criterion>
+    <Criterion name="BigFive" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0.409873039" />
+      <Value name="value1" value="0.423821568" />
+      <Value name="value2" value="0.4583431" />
+      <Value name="value3" value="0.5656378" />
+      <Value name="value4" value="0.550866365" />
+    </Criterion>
+    <Criterion name="Activity" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.5070548" />
+    </Criterion>
+    <Criterion name="spellingfailureRate" minValue="0" maxValue="1" isHomogeneous="true" weight="1">
+      <Value name="value0" value="0.440231681" />
+    </Criterion>
+  </Entry>
+</Entries>

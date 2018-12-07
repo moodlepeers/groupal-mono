@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Participants version="1">
+  <UsedCriteria>
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1" valueCount="4" />
+  </UsedCriteria>
+  <participant id="1">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="1" />
+      <Value name="value1" value="1" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="2">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="1" />
+      <Value name="value1" value="1" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="3">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="1" />
+      <Value name="value1" value="1" />
+      <Value name="value2" value="1" />
+      <Value name="value3" value="1" />
+    </Criterion>
+  </participant>
+  <participant id="4">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="1" />
+      <Value name="value1" value="1" />
+      <Value name="value2" value="1" />
+      <Value name="value3" value="1" />
+    </Criterion>
+  </participant>
+  <participant id="5">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="1" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="6">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="1" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="7">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="1" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="8">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="1" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="9">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="0" />
+      <Value name="value2" value="1" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="10">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="0" />
+      <Value name="value2" value="1" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="11">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="0" />
+      <Value name="value2" value="1" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="12">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="0" />
+      <Value name="value2" value="1" />
+      <Value name="value3" value="0" />
+    </Criterion>
+  </participant>
+  <participant id="13">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="0" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="1" />
+    </Criterion>
+  </participant>
+  <participant id="14">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="0" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="1" />
+    </Criterion>
+  </participant>
+  <participant id="15">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="0" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="1" />
+    </Criterion>
+  </participant>
+  <participant id="16">
+    <Criterion name="hetCrit4DimDemo" minValue="0" maxValue="1" isHomogeneous="false" weight="1">
+      <Value name="value0" value="0" />
+      <Value name="value1" value="0" />
+      <Value name="value2" value="0" />
+      <Value name="value3" value="1" />
+    </Criterion>
+  </participant>
+</Participants>
