@@ -149,6 +149,7 @@ namespace GroupAL.Generator
                 
                 int valueCount = CriterionElement.Elements("Value").Count();
                 float [] values = new float[valueCount];
+                // may I ask WTF
                 foreach(XElement val in CriterionElement.Elements("Value")){
                     int pos = int.Parse(Regex.Match(val.Attribute("name").Value, @"\d+").Value);
                     values[pos] = float.Parse(val.Attribute("value").Value, ci);

@@ -22,3 +22,4 @@ Update 04.12.2019
 - Using the API
 -- send a POST request to the API with XML data on the payload describing the participants. An example xml can be found in the folder /bin/Debug/
 -- the request will return data as json or xml (depending on the header) depicting the cohort that was created
+-- NOTE: The value names "value0", "value1" ... are important and must be named exactly like this because the index will be parsed from [0,1,..]. Dont' ask me. Just do it.
