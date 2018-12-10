@@ -1,0 +1,2 @@
+Client bindings mean using a Java classes with JAXB to create the xml needed for the HTTP interface. Because typing these up takes a while, I provide these classes to be used.
+When using them (i.e. with Jersey REST client) you need to change the package names for your project. Happy coding. For further questions, contact: julian.dehne@gmail.com
