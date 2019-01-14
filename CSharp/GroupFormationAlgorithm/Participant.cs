@@ -24,6 +24,11 @@ namespace GroupAL
             ID = id;
         }
 
+        public Participant(int extId, List<Criterion> criteria) : this(criteria)
+        {
+            ID = extId;
+        }
+
         public Participant Clone(){
             List<Criterion> emptyList = new List<Criterion>();
             Participant participant = new Participant(emptyList);

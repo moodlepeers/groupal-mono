@@ -138,6 +138,8 @@ namespace GroupAL.Generator
 
         private Participant GetParticipantOutOfXML(XElement participantElement)
         {
+            int id = int.Parse(participantElement.Attribute("id").Value);
+
             List<Criterion> loCriteria = new List<Criterion>();
             foreach (XElement CriterionElement in participantElement.Elements("Criterion")) 
             {
@@ -160,7 +162,7 @@ namespace GroupAL.Generator
                 
                 loCriteria.Add(c);
             }
-            return new Participant(loCriteria);
+            return new Participant(id, loCriteria);
         }
     }
 }
