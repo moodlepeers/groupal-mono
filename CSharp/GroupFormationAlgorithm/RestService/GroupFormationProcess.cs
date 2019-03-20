@@ -26,19 +26,26 @@ namespace GroupAL.RestService
     {
         public GroupFormationService()
         {
-            // you can find some example data generated and readable/written with ParticipantReaderWriter.cs in folder /bin/Debug/
-            // i.e. "DemoEntries_100Pers_3Hom_3Het_RandomValues.xml"
-            Get["/"] = x => { return "This is the GroupAlService. Send the participant data to / users / preferences /{ groupSize}"; };
+
+        Nancy.Json.JsonSettings.MaxJsonLength = int.MaxValue;
+        //Nancy.Json.JsonSettings.MaxRecursions = 100;
+        //Nancy.Json.JsonSettings.RetainCasing = true;                                    
+
+
+        // you can find some example data generated and readable/written with ParticipantReaderWriter.cs in folder /bin/Debug/
+        // i.e. "DemoEntries_100Pers_3Hom_3Het_RandomValues.xml"
+        Get["/"] = x => { return "This is the GroupAlService. Send the participant data to / users / preferences /{ groupSize}"; };
 
             Post["/users/preferences/{GroupSize}"] = parameters =>
             {
                 var xmlString  = this.Request.Body.AsString();                             
                 List<Participant> particpants = new XMLParticipantReaderWriter().ReadParticipantsFromString(xmlString);
                 GroupFormationAlgorithm gfGbG = new GroupFormationAlgorithm(particpants, new GroupALGroupCentricMatcher(), new GroupALEvaluator(), new GroupALOptimizer(new GroupALGroupCentricMatcher()), parameters.GroupSize);
-                Cohort result = gfGbG.DoOneFormation();          
+                Cohort result = gfGbG.DoOneFormation();                
                 return result;
             };
 
         }
-    }            
+    }
+ 
 }
